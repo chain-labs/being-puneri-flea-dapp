@@ -1,11 +1,11 @@
-export const BACKGROUND_COLOR = "#683095";
-export const BUTTON_COLOR = "#ffd031";
-export const TEXT_COLOR = "#ddd";
+export const BACKGROUND_COLOR = "#fa65c2";
+export const BUTTON_COLOR = "#5d18ee";
+export const TEXT_COLOR = "#ffdbff";
 export const BUTTON_TEXT_COLOR = BACKGROUND_COLOR;
 export const TOKEN_COUNTER_COLOR = "#db3e77";
 export const INPUT_BORDER_COLOR = TEXT_COLOR;
 
-export const COLLECTION_NAME = "TSC Digital Merchandise";
+export const COLLECTION_NAME = "Puneri flea Merchandise";
 
 export const COLLECTION_DESCRIPTION = [
   "The Social Chutney 3.0: A Unique Blend of Tradition and Technology. Claim to participate in Lucky Draw.",
@@ -30,7 +30,7 @@ export const FAVICON_URL =
 
 export const TOKEN_IMG_URI = process.env.NEXT_PUBLIC_TOKEN_IMAGE_URL;
 
-export const WEBSITE_TITLE = "The Social Chutney | Claim your Merch";
+export const WEBSITE_TITLE = "Being Puneri Flea";
 
 export const TWITTER_URL = "";
 export const DISCORD_URL = "";
